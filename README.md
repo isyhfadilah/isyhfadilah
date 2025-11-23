@@ -14,4 +14,5 @@ Tech Background:
 - Tailwind CSS, Git/GitHub
 - Collaborative workflow using npm/pnpm/yarn
 
-Connect with me: linkedin.com/in/fadilahnur | aisyah.studi@gmail.com
+Connect with me:
+<p>linkedin.com/in/fadilahnur | aisyah.studi@gmail.com</p>
